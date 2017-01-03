@@ -74,7 +74,7 @@ elif time_h == '12':
 	htext = 'Twelve'
 else:
 	hour_colour = 255,255,255 # white
-	htext = 'Error Mother Fucker!!!!!!'
+	htext = 'Error !!!!!!'
 
 
 
